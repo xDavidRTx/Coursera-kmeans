@@ -1,0 +1,17 @@
+submit dpereira@growin.pt 8z7VaVxdoTbDN427
+run-main kmeans.fun.ScalaShop
+ runMain kmeans.KMeansRunner
+test
+ runMain kmeans.KMeansRunner
+run-main kmeans.fun.ScalaShop
+submit dpereira@growin.pt 8z7VaVxdoTbDN427
+runMain kmeans.KMeansRunner
+submit dpereira@growin.pt 8z7VaVxdoTbDN427
+runMain kmeans.KMeansRunner
+submit dpereira@growin.pt 8z7VaVxdoTbDN427
+runMain kmeans.KMeansRunner
+run-main kmeans.fun.ScalaShop
+submit dpereira@growin.pt 8z7VaVxdoTbDN427
+runMain kmeans.KMeansRunner
+submit dpereira@growin.pt 8z7VaVxdoTbDN427
+runMain kmeans.KMeansRunner
